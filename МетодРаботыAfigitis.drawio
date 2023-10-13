@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T09:39:14.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" version="22.0.4" etag="t1ORJRK8DYBs9zKsoZPS" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T09:44:40.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="77riB5EhBLwdzHeVK_qV" version="22.0.4" type="github">
   <diagram name="Страница — 1" id="xDQAtc3mE0dKZ-7YOzVl">
-    <mxGraphModel>
+    <mxGraphModel dx="1009" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mcCum-chH71AFHVTFe8c-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mcCum-chH71AFHVTFe8c-1" target="mcCum-chH71AFHVTFe8c-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mcCum-chH71AFHVTFe8c-1" value="игрок&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mcCum-chH71AFHVTFe8c-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mcCum-chH71AFHVTFe8c-3" target="mcCum-chH71AFHVTFe8c-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mcCum-chH71AFHVTFe8c-3" value="/start&lt;br&gt;инициялизация старта" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mcCum-chH71AFHVTFe8c-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mcCum-chH71AFHVTFe8c-5" target="mcCum-chH71AFHVTFe8c-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mcCum-chH71AFHVTFe8c-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mcCum-chH71AFHVTFe8c-5" target="mcCum-chH71AFHVTFe8c-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mcCum-chH71AFHVTFe8c-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mcCum-chH71AFHVTFe8c-5" target="mcCum-chH71AFHVTFe8c-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mcCum-chH71AFHVTFe8c-5" value="Gamecore.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mcCum-chH71AFHVTFe8c-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mcCum-chH71AFHVTFe8c-7" target="mcCum-chH71AFHVTFe8c-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mcCum-chH71AFHVTFe8c-7" value="Stage1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="50" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mcCum-chH71AFHVTFe8c-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mcCum-chH71AFHVTFe8c-8" target="mcCum-chH71AFHVTFe8c-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mcCum-chH71AFHVTFe8c-8" value="stage2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mcCum-chH71AFHVTFe8c-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mcCum-chH71AFHVTFe8c-9" target="mcCum-chH71AFHVTFe8c-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mcCum-chH71AFHVTFe8c-9" value="stage3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="230" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mcCum-chH71AFHVTFe8c-11" value="saves.json" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="50" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mcCum-chH71AFHVTFe8c-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.667;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mcCum-chH71AFHVTFe8c-11" target="mcCum-chH71AFHVTFe8c-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="75" />
+              <mxPoint x="780" y="320" />
+              <mxPoint x="390" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
